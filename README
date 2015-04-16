@@ -1,0 +1,4 @@
+- install fastjet
+- install fastjet plugins ( http://fastjet.hepforge.org/contrib/ )
+- edit setup with fastjet install directory
+- make
